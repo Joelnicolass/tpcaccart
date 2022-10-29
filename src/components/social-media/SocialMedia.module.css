@@ -1,0 +1,6 @@
+.container {
+  margin-top: 3%;
+  min-width: 50%;
+  display: flex;
+  justify-content: space-around;
+}

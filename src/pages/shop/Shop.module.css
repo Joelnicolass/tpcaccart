@@ -1,0 +1,9 @@
+.container {
+  background-color: #161616;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 70vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
